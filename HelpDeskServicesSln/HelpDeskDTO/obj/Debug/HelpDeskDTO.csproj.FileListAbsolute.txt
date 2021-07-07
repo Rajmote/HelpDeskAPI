@@ -1,0 +1,34 @@
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskDTO\bin\Debug\HelpDeskDTO.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskDTO\bin\Debug\HelpDeskDTO.pdb
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.pdb
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.csprojAssemblyReference.cache
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskDTO\bin\Debug\HelpDeskDTO.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskDTO\bin\Debug\HelpDeskDTO.pdb
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.csprojAssemblyReference.cache
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.csproj.CoreCompileInputs.cache
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.pdb
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskDTO\bin\Debug\HelpDeskDTO.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskDTO\bin\Debug\HelpDeskDTO.pdb
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.csprojAssemblyReference.cache
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.csproj.CoreCompileInputs.cache
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.pdb
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskDTO\bin\Debug\HelpDeskDTO.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskDTO\bin\Debug\HelpDeskDTO.pdb
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.csproj.CoreCompileInputs.cache
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.pdb
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDTO\bin\Debug\HelpDeskDTO.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDTO\bin\Debug\HelpDeskDTO.pdb
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.csproj.CoreCompileInputs.cache
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.pdb
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDTO\bin\Debug\HelpDeskDTO.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDTO\bin\Debug\HelpDeskDTO.pdb
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.csprojAssemblyReference.cache
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.csproj.CoreCompileInputs.cache
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.pdb
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.csprojAssemblyReference.cache

@@ -1,0 +1,629 @@
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.csprojAssemblyReference.cache
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskAPI.dll.config
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskAPI.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskAPI.pdb
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csc.exe
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csc.exe.config
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csc.rsp
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csi.exe
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csi.exe.config
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csi.rsp
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.AppContext.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Console.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Globalization.Calendars.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.IO.Compression.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Net.Http.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Net.Sockets.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.ValueTuple.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Xml.XPath.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\vbc.exe
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\vbc.exe.config
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\vbc.rsp
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\VBCSCompiler.exe
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\Antlr3.Runtime.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskBAL.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskDAL.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskDTO.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\Newtonsoft.Json.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\System.Net.Http.Formatting.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Helpers.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.WebHost.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Mvc.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Optimization.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Razor.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.Deployment.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.Razor.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\WebGrease.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\Dapper.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskBAL.pdb
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskDAL.pdb
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskDTO.pdb
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\Newtonsoft.Json.xml
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\System.Net.Http.Formatting.xml
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Helpers.xml
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.xml
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.WebHost.xml
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Mvc.xml
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Optimization.xml
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Razor.xml
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.xml
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.Deployment.xml
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.Razor.xml
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\Antlr3.Runtime.pdb
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\Dapper.xml
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.csproj.CopyComplete
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.pdb
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Cors.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.Cors.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.Cors.xml
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\Swashbuckle.Core.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\WebActivatorEx.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\Ninject.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\WebApiContrib.IoC.Ninject.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\Ninject.xml
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\Ninject.Extensions.ChildKernel.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskAPI\bin\Ninject.Extensions.ChildKernel.xml
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskAPI.dll.config
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskAPI.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskAPI.pdb
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csc.exe
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csc.exe.config
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csc.rsp
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csi.exe
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csi.exe.config
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csi.rsp
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Console.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\vbc.exe
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\vbc.exe.config
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\vbc.rsp
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Antlr3.Runtime.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskBAL.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskDAL.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskDTO.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Newtonsoft.Json.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Ninject.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Ninject.Extensions.ChildKernel.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Swashbuckle.Core.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Cors.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Helpers.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Mvc.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Optimization.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Razor.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\WebActivatorEx.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\WebApiContrib.IoC.Ninject.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\WebGrease.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Dapper.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskBAL.pdb
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskDAL.pdb
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskDTO.pdb
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Ninject.xml
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Ninject.Extensions.ChildKernel.xml
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Newtonsoft.Json.xml
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Helpers.xml
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.xml
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Mvc.xml
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Optimization.xml
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Razor.xml
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.xml
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Dapper.xml
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.csprojAssemblyReference.cache
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.csproj.CoreCompileInputs.cache
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.csproj.CopyComplete
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.pdb
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskAPI.dll.config
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskAPI.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskAPI.pdb
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csc.exe
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csc.exe.config
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csc.rsp
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csi.exe
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csi.exe.config
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csi.rsp
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Console.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\vbc.exe
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\vbc.exe.config
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\vbc.rsp
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Antlr3.Runtime.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskBAL.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskDAL.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskDTO.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Newtonsoft.Json.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Ninject.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Ninject.Extensions.ChildKernel.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Swashbuckle.Core.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Cors.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Helpers.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Mvc.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Optimization.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Razor.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\WebActivatorEx.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\WebApiContrib.IoC.Ninject.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\WebGrease.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Dapper.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskBAL.pdb
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskDAL.pdb
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskDTO.pdb
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Ninject.xml
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Ninject.Extensions.ChildKernel.xml
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Newtonsoft.Json.xml
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Helpers.xml
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.xml
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Mvc.xml
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Optimization.xml
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Razor.xml
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.xml
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\bin\Dapper.xml
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.csprojAssemblyReference.cache
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.csproj.CoreCompileInputs.cache
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.csproj.CopyComplete
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.pdb
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskAPI.dll.config
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskAPI.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskAPI.pdb
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csc.exe
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csc.exe.config
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csc.rsp
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csi.exe
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csi.exe.config
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csi.rsp
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Console.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\vbc.exe
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\vbc.exe.config
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\vbc.rsp
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Antlr3.Runtime.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskBAL.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskDAL.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskDTO.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Newtonsoft.Json.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Ninject.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Ninject.Extensions.ChildKernel.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Swashbuckle.Core.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Cors.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Helpers.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Mvc.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Optimization.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Razor.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\WebActivatorEx.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\WebApiContrib.IoC.Ninject.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\WebGrease.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Dapper.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskBAL.pdb
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskDAL.pdb
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskDTO.pdb
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Ninject.xml
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Ninject.Extensions.ChildKernel.xml
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Newtonsoft.Json.xml
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Helpers.xml
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.xml
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Mvc.xml
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Optimization.xml
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Razor.xml
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.xml
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Dapper.xml
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.csprojAssemblyReference.cache
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.csproj.CoreCompileInputs.cache
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.csproj.CopyComplete
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.pdb
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskAPI.dll.config
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskAPI.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskAPI.pdb
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csc.exe
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csc.exe.config
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csc.rsp
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csi.exe
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csi.exe.config
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csi.rsp
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Console.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\vbc.exe
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\vbc.exe.config
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\vbc.rsp
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Antlr3.Runtime.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskBAL.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskDAL.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskDTO.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Newtonsoft.Json.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Ninject.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Ninject.Extensions.ChildKernel.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Swashbuckle.Core.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Cors.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Helpers.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Mvc.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Optimization.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Razor.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\WebActivatorEx.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\WebApiContrib.IoC.Ninject.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\WebGrease.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Dapper.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskBAL.pdb
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskDAL.pdb
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskDTO.pdb
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Ninject.xml
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Ninject.Extensions.ChildKernel.xml
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Newtonsoft.Json.xml
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Helpers.xml
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.xml
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Mvc.xml
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Optimization.xml
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Razor.xml
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.xml
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Dapper.xml
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.csprojAssemblyReference.cache
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.csproj.CoreCompileInputs.cache
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.csproj.CopyComplete
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.pdb
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskAPI.dll.config
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskAPI.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskAPI.pdb
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csc.exe
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csc.exe.config
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csc.rsp
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csi.exe
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csi.exe.config
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\csi.rsp
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Console.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\vbc.exe
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\vbc.exe.config
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\vbc.rsp
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Antlr3.Runtime.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskBAL.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskDAL.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskDTO.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Newtonsoft.Json.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Ninject.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Ninject.Extensions.ChildKernel.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Swashbuckle.Core.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Cors.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Helpers.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Mvc.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Optimization.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Razor.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\WebActivatorEx.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\WebApiContrib.IoC.Ninject.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\WebGrease.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Dapper.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskBAL.pdb
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskDAL.pdb
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\HelpDeskDTO.pdb
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Ninject.xml
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Ninject.Extensions.ChildKernel.xml
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Newtonsoft.Json.xml
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Helpers.xml
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.xml
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Mvc.xml
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Optimization.xml
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.Razor.xml
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.xml
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\bin\Dapper.xml
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.csprojAssemblyReference.cache
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.csproj.CoreCompileInputs.cache
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.csproj.CopyComplete
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskAPI\obj\Debug\HelpDeskAPI.pdb

@@ -1,0 +1,65 @@
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.csprojAssemblyReference.cache
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDAL.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDAL.pdb
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\Dapper.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDTO.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDTO.pdb
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\Dapper.xml
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.csproj.CopyComplete
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.dll
+E:\Projects and Practice\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.pdb
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDAL.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDAL.pdb
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\Dapper.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDTO.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDTO.pdb
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\Dapper.xml
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.csprojAssemblyReference.cache
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.csproj.CoreCompileInputs.cache
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.csproj.CopyComplete
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.dll
+C:\Users\Raj\OneDrive\Desktop\others\HelpDesk Project\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.pdb
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDAL.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDAL.pdb
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\Dapper.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDTO.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDTO.pdb
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\Dapper.xml
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.csprojAssemblyReference.cache
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.csproj.CoreCompileInputs.cache
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.csproj.CopyComplete
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.dll
+C:\Users\Raj\OneDrive\Desktop\HelpDesk Project\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.pdb
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDAL.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDAL.pdb
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\Dapper.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDTO.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDTO.pdb
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\Dapper.xml
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.csprojAssemblyReference.cache
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.csproj.CoreCompileInputs.cache
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.csproj.CopyComplete
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.dll
+C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.pdb
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDAL.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDAL.pdb
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\Dapper.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDTO.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDTO.pdb
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\Dapper.xml
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.csprojAssemblyReference.cache
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.csproj.CoreCompileInputs.cache
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.csproj.CopyComplete
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.dll
+C:\Users\Snehal\Dropbox\My PC (DESKTOP-H7CSMN7)\Downloads\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.pdb
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDAL.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDAL.pdb
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\Dapper.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDTO.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDTO.pdb
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\Dapper.xml
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.csprojAssemblyReference.cache
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.csproj.CoreCompileInputs.cache
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.csproj.CopyComplete
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.dll
+C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.pdb
