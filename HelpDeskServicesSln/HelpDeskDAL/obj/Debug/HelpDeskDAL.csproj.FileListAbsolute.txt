@@ -63,3 +63,14 @@ C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskService
 C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.csproj.CopyComplete
 C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.dll
 C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.pdb
+C:\GitRepo\HelpDeskAPI\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDAL.dll
+C:\GitRepo\HelpDeskAPI\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDAL.pdb
+C:\GitRepo\HelpDeskAPI\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\Dapper.dll
+C:\GitRepo\HelpDeskAPI\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDTO.dll
+C:\GitRepo\HelpDeskAPI\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\HelpDeskDTO.pdb
+C:\GitRepo\HelpDeskAPI\HelpDeskServicesSln\HelpDeskDAL\bin\Debug\Dapper.xml
+C:\GitRepo\HelpDeskAPI\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.csproj.AssemblyReference.cache
+C:\GitRepo\HelpDeskAPI\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.csproj.CoreCompileInputs.cache
+C:\GitRepo\HelpDeskAPI\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.csproj.CopyComplete
+C:\GitRepo\HelpDeskAPI\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.dll
+C:\GitRepo\HelpDeskAPI\HelpDeskServicesSln\HelpDeskDAL\obj\Debug\HelpDeskDAL.pdb

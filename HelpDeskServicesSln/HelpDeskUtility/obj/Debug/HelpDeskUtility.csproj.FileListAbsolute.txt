@@ -27,3 +27,9 @@ C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskService
 C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskUtility\obj\Debug\HelpDeskUtility.dll
 C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskUtility\obj\Debug\HelpDeskUtility.pdb
 C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskUtility\obj\Debug\HelpDeskUtility.csprojAssemblyReference.cache
+C:\GitRepo\HelpDeskAPI\HelpDeskServicesSln\HelpDeskUtility\bin\Debug\HelpDeskUtility.dll
+C:\GitRepo\HelpDeskAPI\HelpDeskServicesSln\HelpDeskUtility\bin\Debug\HelpDeskUtility.pdb
+C:\GitRepo\HelpDeskAPI\HelpDeskServicesSln\HelpDeskUtility\obj\Debug\HelpDeskUtility.csproj.AssemblyReference.cache
+C:\GitRepo\HelpDeskAPI\HelpDeskServicesSln\HelpDeskUtility\obj\Debug\HelpDeskUtility.csproj.CoreCompileInputs.cache
+C:\GitRepo\HelpDeskAPI\HelpDeskServicesSln\HelpDeskUtility\obj\Debug\HelpDeskUtility.dll
+C:\GitRepo\HelpDeskAPI\HelpDeskServicesSln\HelpDeskUtility\obj\Debug\HelpDeskUtility.pdb

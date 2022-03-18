@@ -32,3 +32,9 @@ C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskService
 C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.dll
 C:\Users\Snehal\OneDrive\Desktop\Snehal Projects\Snehal Projects\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.pdb
 C:\Users\Raj\OneDrive\Desktop\Snehal Projects\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.csprojAssemblyReference.cache
+C:\GitRepo\HelpDeskAPI\HelpDeskServicesSln\HelpDeskDTO\bin\Debug\HelpDeskDTO.dll
+C:\GitRepo\HelpDeskAPI\HelpDeskServicesSln\HelpDeskDTO\bin\Debug\HelpDeskDTO.pdb
+C:\GitRepo\HelpDeskAPI\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.csproj.AssemblyReference.cache
+C:\GitRepo\HelpDeskAPI\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.csproj.CoreCompileInputs.cache
+C:\GitRepo\HelpDeskAPI\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.dll
+C:\GitRepo\HelpDeskAPI\HelpDeskServicesSln\HelpDeskDTO\obj\Debug\HelpDeskDTO.pdb
