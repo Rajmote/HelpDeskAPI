@@ -129,7 +129,7 @@ namespace HelpDeskDAL
             {
                 UseDefaultCredentials = false,
                 Port = 587,
-                Credentials = new NetworkCredential("snehaldgarad@gmail.com", "Enrique7@"),
+                Credentials = new NetworkCredential("snehaldgarad@gmail.com", ""),
                 EnableSsl = true,
             };
 
